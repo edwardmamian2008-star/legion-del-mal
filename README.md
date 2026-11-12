@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/edwardmamian2008-star/legión-del-mal)
 ![Issues](https://img.shields.io/github/issues/edwardmamian2008-star/legión-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/edwardmamian2008-star/legión-del-mal)
-![Licencia](https://img.shields.io/github/license/edwardmamian2008-star/legión-del-mal)
+![Licencia](https://img.shields.io/github/license/edwardmamian2008-star/legión-del-mal?&cacheSeconds=60)
 
 
 # 🦹‍♂️ La Legión del Mal
